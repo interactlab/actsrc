@@ -1,0 +1,18 @@
+[submodule "or_urdf"]
+	path = or_urdf
+	url = https://github.com/personalrobotics/or_urdf.git
+[submodule "openrave_catkin"]
+	path = openrave_catkin
+	url = https://github.com/personalrobotics/openrave_catkin.git
+[submodule "or_rviz"]
+	path = or_rviz
+	url = https://github.com/personalrobotics/or_rviz
+[submodule "prpy"]
+	path = prpy
+	url = https://github.com/personalrobotics/prpy.git
+[submodule "kinova-ros"]
+	path = kinova-ros
+	url = https://github.com/Kinovarobotics/kinova-ros.git
+[submodule "pr-ordata"]
+	path = pr-ordata
+	url = https://github.com/personalrobotics/pr-ordata.git
