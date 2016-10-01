@@ -99,3 +99,5 @@ class Jaco:
         self.SetConfiguration(c)
 
 archie = Jaco(r)
+
+print("Welcome to InterACT. The JACO is the symbol `archie`")
