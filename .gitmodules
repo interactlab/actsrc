@@ -16,3 +16,6 @@
 [submodule "pr-ordata"]
 	path = pr-ordata
 	url = https://github.com/personalrobotics/pr-ordata.git
+[submodule "interactpy"]
+	path = interactpy
+	url = https://github.com/interactlab/interactpy.git
