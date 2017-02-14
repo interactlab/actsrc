@@ -19,3 +19,6 @@
 [submodule "interactpy"]
 	path = interactpy
 	url = https://github.com/interactlab/interactpy.git
+[submodule "or_trajopt"]
+	path = or_trajopt
+	url = https://github.com/personalrobotics/or_trajopt
