@@ -18,7 +18,7 @@
 	url = https://github.com/personalrobotics/pr-ordata.git
 [submodule "interactpy"]
 	path = interactpy
-	url = https://github.com/interactlab/interactpy.git
+	url = https://repo.eecs.berkeley.edu/git/projects/interact/interactpy.git
 [submodule "or_trajopt"]
 	path = or_trajopt
 	url = https://github.com/personalrobotics/or_trajopt
