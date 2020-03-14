@@ -80,7 +80,7 @@ qt-dotgraph==0.2.30
 qt-gui==0.2.30
 qt-gui-cpp==0.2.30
 qt-gui-py-common==0.2.30
-requests==2.2.1
+requests==2.20.0
 resource-retriever==1.11.7
 roman==2.0.0
 rosbag==1.11.20
